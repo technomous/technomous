@@ -6,15 +6,6 @@
 Core_java
 +Html
 +css
-+js
-+bootstrap
-+MySQL
-+python
-+c
-+cpp
-+3dmodeling
-+animation
-+H+J+SB+R
-+lot_more_coming_soon;-)
+
 
 
